@@ -9,16 +9,18 @@ git clone https://github.com/DanielFitzsimons/G00393110_Emer_Tech_Proj
 ```
 
 2. Navigate into the project repository:
-
+```bash
 cd G00393110_Emer_Tech_Proj
+```
 
 3. Install Anaconda: 
 This can be done from the anacondal website: https://www.anaconda.com/download
 
 4. Install Qiskit and Numpy:
-
+```bash
 pip install qiskit numpy
-
+```
 5. Open the Notebooks:
-
+```bash
 jupyter notebook
+```
