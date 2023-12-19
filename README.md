@@ -5,8 +5,9 @@ To use the notebooks locally, you can begin by following these steps:
 ## 1. Clone the repo:
 ```bash
 git clone https://github.com/DanielFitzsimons/G00393110_Emer_Tech_Proj
-
+```bash
 ## 2. Navigate into the project repository:
+
 cd G00393110_Emer_Tech_Proj
 
 ## 3. Install Anaconda: 
