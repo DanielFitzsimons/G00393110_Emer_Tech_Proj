@@ -31,5 +31,5 @@ jupyter notebook
 3.  Counting 4 bit functions with 1 output
 4.  Multiplying matrices
 
-##Project
+## Project
 Deutchs Algorithm
