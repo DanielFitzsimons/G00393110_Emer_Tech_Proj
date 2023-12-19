@@ -14,7 +14,9 @@ cd G00393110_Emer_Tech_Proj
 ```
 
 3. Install Anaconda: 
-This can be done from the anacondal website: https://www.anaconda.com/download
+```bash
+https://www.anaconda.com/download
+```
 
 4. Install Qiskit and Numpy:
 ```bash
@@ -25,6 +27,7 @@ pip install qiskit numpy
 jupyter notebook
 ```
 # Contents
+
 ## Tasks
 1. Collatz Conjecture Conjecture Problem
 2.  Calculating Sqaure roots using Newtons Methods
