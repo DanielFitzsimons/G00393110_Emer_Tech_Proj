@@ -24,7 +24,7 @@ pip install qiskit numpy
 ```bash
 jupyter notebook
 ```
-#Contents
+# Contents
 ## Tasks
 1. Collatz Conjecture Conjecture Problem
 2.  Calculating Sqaure roots using Newtons Methods
