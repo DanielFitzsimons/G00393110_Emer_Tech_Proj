@@ -30,5 +30,6 @@ jupyter notebook
 2.  Calculating Sqaure roots using Newtons Methods
 3.  Counting 4 bit functions with 1 output
 4.  Multiplying matrices
+
 ##Project
 Deutchs Algorithm
