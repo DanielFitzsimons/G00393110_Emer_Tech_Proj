@@ -24,3 +24,11 @@ pip install qiskit numpy
 ```bash
 jupyter notebook
 ```
+#Contents
+## Tasks
+1. Collatz Conjecture Conjecture Problem
+2.  Calculating Sqaure roots using Newtons Methods
+3.  Counting 4 bit functions with 1 output
+4.  Multiplying matrices
+##Project
+Deutchs Algorithm
